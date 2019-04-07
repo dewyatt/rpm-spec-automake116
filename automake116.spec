@@ -15,7 +15,7 @@
 
 Summary: Package that installs %scl
 Name: %scl_name
-Version: 1
+Version: 1.1
 Release: 1%{?dist}
 License: GPLv2+ and GFDL and Public Domain and MIT
 BuildRequires: scl-utils-build
